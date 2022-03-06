@@ -78,4 +78,4 @@ bot.once("ready", async  () => {
 
 
 
-bot.login(token)
+bot.login(discordtoken)
