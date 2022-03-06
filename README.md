@@ -1,7 +1,7 @@
 # Verbinde deinen Twitch Chat mit Discord!
 
 
-#Wie funktioniert es?
+**Wie funktioniert es?**
 - Lade alle dateien runter
 - öffne config.json in einem Text- /Code editor
 - gehe zu [Discord Developer](https://discord.com/developers/applications) und erstelle eine neue App mit einem Bot
