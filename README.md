@@ -2,6 +2,7 @@
 
 
 **Wie funktioniert es?**
+- Installiere [Node.js](https://nodejs.org/de/) (Neueste version)
 - Lade alle dateien runter
 - öffne config.json in einem Text- /Code editor
 - gehe zu [Discord Developer](https://discord.com/developers/applications) und erstelle eine neue App mit einem Bot
