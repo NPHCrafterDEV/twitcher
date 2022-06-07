@@ -2,14 +2,14 @@
 
 
 **Wie funktioniert es?**
-- Installiere [Node.js](https://nodejs.org/de/) (Neueste version)
-- Lade alle dateien runter
-- öffne config.json in einem Text- /Code editor
-- gehe zu [Discord Developer](https://discord.com/developers/applications) und erstelle eine neue App mit einem Bot
-- Kopier den Bot Token und füg ihn bei discordtoken ein
-- hol dir nun ein token für den twitch bot auf [Twitchapps](https://twitchapps.com/tmi/)
-- füg diesen token bei OAUTH ein
-- bei channel muss der Twitch kanal eingetragen werden z.B. nphcrafter
-- bei discordchannel wird die ID von dem kanal eingetragen in den der Chat gesendet werden soll
-- speicher die datei
-
+1. Installiere [Node.js](https://nodejs.org/de/) (v16 oder höher)
+2. Lade alle Dateien herrunter
+3. Öffne config.json in einem Text-/Codeeditor
+4. Gehe in das [Discord Developer Portal](https://discord.com/developers/applications) und erstelle dort eine neue App mit einem Bot
+5. Kopiere dein Bot Token und füge es unter discordtoken in der config,json ein
+6. Hole dir nun ein Token für den Twitchbot auf [Twitchapps](https://twitchapps.com/tmi/)
+7. Füge dein Twitchtoken unter OAUTH in der config.json ein
+8, Unter channel in der config.json muss der Twitchkanal eingetragen werden z.B. nphcrafter
+9, Unter discordchannel in der config.json wird die ID von dem Kanal eingetragen, in den der Chat gesendet werden soll
+10. Speicher die Datei
+11. Führe den Bot mit ´node index.js´ aus
